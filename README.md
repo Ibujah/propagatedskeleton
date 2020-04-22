@@ -4,6 +4,8 @@ This software is an implementation of the skeletonization by propagation method.
 
 The propagated skeleton: a robust detail-preserving approach, Durix B., Chambon S., Leonard K., Mari J.-L. and Morin G., Discrete Geometry for Computer Imagery, 2019
 
+**Note:** An improved skeletonization method is available [here](https://github.com/Ibujah/compactskel).
+
 ## Website:
 
 http://durix.perso.enseeiht.fr/
